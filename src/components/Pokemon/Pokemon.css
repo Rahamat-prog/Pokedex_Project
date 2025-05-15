@@ -1,0 +1,28 @@
+.pokemon {
+    flex-basis: 19%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 1rem;
+    gap: 8px;
+    flex-wrap: wrap;
+
+   
+}
+
+.pokemon-name {
+    /* font-size: large; */
+    letter-spacing: 3px;
+    font-family: sans-serif;
+    text-decoration: none;
+
+}
+
+#image-set {
+    /* height: 100%;
+    max-height: 400px;
+    width: 50%; */
+    max-height: 100px;
+
+}
